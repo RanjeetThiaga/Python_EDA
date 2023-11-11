@@ -1,31 +1,11 @@
-<a href="https://github.com/drshahizan/HPDP/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/HPDP" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/HPDP/network/members"><img src="https://img.shields.io/github/forks/drshahizan/HPDP" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/HPDP/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/HPDP" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/HPDP"><img src="https://img.shields.io/github/issues/drshahizan/HPDP" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/HPDP/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/HPDP?color=2b9348"></a>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FHPDP&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+## In this case study Pandas-Profiling is used as the Automated EDA for exploratory Analysis
 
-# EDA
+<p align="center">
+    <img src="https://github.com/drshahizan/Python_EDA/assets/142320760/960b4990-9c9c-4b3b-af8f-00cb37388fd8" alt="Your Image">
+</p>
 
-### Group Members
 
-| Name                                     | Matrix Number | Task |
-| :---------------------------------------- | :-------------: | ------------- |
-| NG ZI XING | A21EC0213 | Case Study 1  
-| MOHAMAD AZRI HADIF BIN MOHAMMAD RIZAL | A21EC0054 | Case Study 1a
-| ALIEYA ZAWANIE BINTI A ZAINI | A21EC0156 | Case Study 1b
-| IZZAT HAQEEMI BIN HAIRUDIN | A21EC0033 | Case Study 1c
+Pandas Profiling is a Python library that provides an easy and efficient way to perform exploratory data analysis (EDA) on a dataset using the popular pandas library. It generates a comprehensive HTML report with various insights and visualizations that help you understand the structure, distribution, and relationships within your dataset.
 
-### 📂 Folder content:
-* [📖 Answer]()
-* [📖 Answer]()
-* [📖 Answer]()
-* [📖 Answer]()
-
-## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/HPDP/issues) for any improvements, suggestions or errors in the content.
-
-You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
+In case study 2c, we will see the capability of pandas profiling in handling Malaysian dataset. 
+To see the full dashboard result you can download the output.html file and open through your device.

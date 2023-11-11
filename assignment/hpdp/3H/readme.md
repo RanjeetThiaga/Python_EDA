@@ -12,15 +12,15 @@
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
 | NG ZI XING | A21EC0213 | Case Study 1  
-| MOHAMAD AZRI HADIF BIN MOHAMMAD RIZAL | A21EC0054 | Case Study 1a
-| ALIEYA ZAWANIE BINTI A ZAINI | A21EC0156 | Case Study 1b
-| IZZAT HAQEEMI BIN HAIRUDIN | A21EC0033 | Case Study 1c
+| MOHAMAD AZRI HADIF BIN MOHAMMAD RIZAL | A21EC0054 | Case Study 2a
+| ALIEYA ZAWANIE BINTI A ZAINI | A21EC0156 | Case Study 2b
+| IZZAT HAQEEMI BIN HAIRUDIN | A21EC0033 | Case Study 2c
 
 ### 📂 Folder content:
-* [📖 Answer]()
-* [📖 Answer]()
-* [📖 Answer]()
-* [📖 Answer]()
+* [📖 Answer Case Study 1a](https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/3H/case_study1/Assignment_EDA_caseStudy1.ipynb)
+* [📖 Answer Case Study 2a](https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/3H/case_study2a/cs2a.ipynb)
+* [📖 Answer Case Study 2b](https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/3H/case_study2b/cs2b.ipynb)
+* [📖 Answer Case Study 2c](https://github.com/drshahizan/Python_EDA/blob/main/assignment/hpdp/3H/case_study2c/Case_Study_2C.ipynb)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/HPDP/issues) for any improvements, suggestions or errors in the content.
